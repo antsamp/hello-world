@@ -1,0 +1,27 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "This is my first time using Github, I just found out about it a little while ago!!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antsamp/hello-world.git"
+  },
+  "keywords": [
+    "Figuring",
+    "out",
+    "how",
+    "to",
+    "use",
+    "git"
+  ],
+  "author": "Anthony Sampson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antsamp/hello-world/issues"
+  },
+  "homepage": "https://github.com/antsamp/hello-world#readme"
+}
