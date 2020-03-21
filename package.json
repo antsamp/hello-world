@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/antsamp/hello-world/issues"
   },
-  "homepage": "https://github.com/antsamp/hello-world#readme"
+  "homepage": "https://github.com/antsamp/hello-world#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
